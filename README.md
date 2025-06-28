@@ -1,4 +1,4 @@
-# Keyboardless-Handwriting-Input
+
 # ✍️ Keyboardless Handwriting Input
 
 > An inclusive, real-time handwriting-to-text system — no keyboard required.
